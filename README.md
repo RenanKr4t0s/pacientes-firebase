@@ -8,6 +8,7 @@ Criando um aplicativo com banco de dados no Firebase
 
 - Firebase
 - Bootstrap
+- FontAwsome
 - React 18.3.1
 - Components JSX
 

@@ -1,9 +1,12 @@
-import './App.css';
+import Cadastro from './Cadastro';
 
 function App() {
+
+
   return (
-    <div className="App">
-      <h1>Hello World!</h1>
+    <div className="col-md-10 offset-md-1">
+      <Cadastro />
+
     </div>
   );
 }
